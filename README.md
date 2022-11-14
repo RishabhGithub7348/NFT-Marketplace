@@ -1,6 +1,6 @@
 # Basic NFT Marketplace Market
 
-For Visiting this website : https://nft-maketplaces.netlify.app/
+For Visiting this website : https://nftmaketplace.netlify.app/
 
 
 
